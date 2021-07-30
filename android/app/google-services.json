@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "289037954196",
+    "firebase_url": "https://covid-oxy-default-rtdb.firebaseio.com",
+    "project_id": "covid-oxy",
+    "storage_bucket": "covid-oxy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289037954196:android:e35329ad3af8afe3079881",
+        "android_client_info": {
+          "package_name": "com.fightback.corona_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289037954196-f989gsv4jgl4umfv56mi47bjm42jmp38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjredd8C6Y6xoPxyiBMIhTBgqc3eR8uIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289037954196-f989gsv4jgl4umfv56mi47bjm42jmp38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289037954196:android:2093b6038e12d1ab079881",
+        "android_client_info": {
+          "package_name": "com.fightback.covidoxy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289037954196-f989gsv4jgl4umfv56mi47bjm42jmp38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjredd8C6Y6xoPxyiBMIhTBgqc3eR8uIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289037954196-f989gsv4jgl4umfv56mi47bjm42jmp38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289037954196:android:b39d9599e0dcdb6a079881",
+        "android_client_info": {
+          "package_name": "com.fightback.oxy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289037954196-f989gsv4jgl4umfv56mi47bjm42jmp38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjredd8C6Y6xoPxyiBMIhTBgqc3eR8uIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289037954196-f989gsv4jgl4umfv56mi47bjm42jmp38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
